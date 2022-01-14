@@ -1,0 +1,6 @@
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\bin\Debug\DemoDelegate_ProgramAlong.exe.config
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\bin\Debug\DemoDelegate_ProgramAlong.exe
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\bin\Debug\DemoDelegate_ProgramAlong.pdb
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\obj\Debug\DemoDelegate_ProgramAlong.csprojResolveAssemblyReference.cache
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\obj\Debug\DemoDelegate_ProgramAlong.exe
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\DemoDelegate_ProgramAlong\obj\Debug\DemoDelegate_ProgramAlong.pdb
